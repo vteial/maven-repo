@@ -1,1 +1,1 @@
-# Meven repo for all my projects
+Maven repository for all my projects
