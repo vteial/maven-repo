@@ -2,7 +2,7 @@ Maven repository for all my projects
 
 
 ======================================
-Manually deploy a jar to this repo
+To deploy jar manually to this repository
 ======================================
 1. run the command
 
@@ -16,7 +16,7 @@ Manually deploy a jar to this repo
  -Durl=file:///path/to/local/maven-repo/releases/
 </code></pre>
 
-jar example
+* jar example
 <pre><code>
   mvn deploy:deploy-file 
   -DgroupId=in.github.vteial
@@ -27,7 +27,7 @@ jar example
   -Durl=file:///users/vteial/git/maven-repo/releases/
 </code></pre>
 
-pom example 
+* pom example 
 <pre><code>
  mvn deploy:deploy-file 
  -DgroupId=io.github.vteial
