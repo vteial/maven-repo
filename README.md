@@ -1,9 +1,8 @@
 Maven repository for all my projects
 
 
-======================================
-To deploy jar manually to this repository
-======================================
+# To deploy jar manually to this repository
+
 1. run the command
 
 <pre><code>
